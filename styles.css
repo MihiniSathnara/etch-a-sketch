@@ -1,0 +1,24 @@
+* {
+    background-color: #f9dddd;
+}
+
+.heading {
+    color: #3e4f61;
+    text-align: center;
+}
+
+#container{
+    border: 4px solid #000;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+}
+
+.box{
+    background-color: #FFF;
+    outline: 1px solid rgba(0, 0, 0, 0.1);
+    outline-offset: 0px;      
+}
