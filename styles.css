@@ -22,3 +22,14 @@
     outline: 1px solid rgba(0, 0, 0, 0.1);
     outline-offset: 0px;      
 }
+
+#resizeGrid{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    background-color: #3e4f61;
+    color: #fff;
+    padding: 8px 15px;
+    font-weight: bold;
+    border: none;
+}
